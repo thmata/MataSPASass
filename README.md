@@ -1,6 +1,6 @@
 
 # 📜SPA DE BELEZA 
-Desenvolvimento da estrutura visual de um site disponibilizado pelo figma.
+Treinamento da tecnologia SASS
 
 <table>
   <tr>
