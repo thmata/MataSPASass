@@ -1,0 +1,29 @@
+@import '../abstract/variaveis';
+
+.bottom{
+    text-align: center;
+    padding: 2rem;
+    .img-container {
+        img{
+            border-bottom: 3px solid $cor-primaria;
+
+        }
+    }
+
+    .texto{
+        margin-top: 20px;
+    }
+}
+
+
+
+footer{
+    text-align: center;
+    font-size: $tamanho-do-texto / 2;
+    border-top: 2px solid $cor-primaria;
+    margin-top: 1rem;
+    padding: 1.2rem;
+    i{
+        color: red;
+    }
+}
