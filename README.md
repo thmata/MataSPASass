@@ -1,5 +1,5 @@
 
-# 📜E-COMMERCE [ORIGINAL IO]
+# 📜SPA DE BELEZA 
 Desenvolvimento da estrutura visual de um site disponibilizado pelo figma.
 
 <table>
